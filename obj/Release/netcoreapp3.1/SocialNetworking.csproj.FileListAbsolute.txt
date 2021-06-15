@@ -16,3 +16,4 @@ C:\Users\alpag\source\repos\SocialNetworking\SocialNetworking\obj\Release\netcor
 C:\Users\alpag\source\repos\SocialNetworking\SocialNetworking\obj\Release\netcoreapp3.1\SocialNetworking.dll
 C:\Users\alpag\source\repos\SocialNetworking\SocialNetworking\obj\Release\netcoreapp3.1\SocialNetworking.pdb
 C:\Users\alpag\source\repos\SocialNetworking\SocialNetworking\obj\Release\netcoreapp3.1\SocialNetworking.genruntimeconfig.cache
+C:\Users\alpag\source\repos\SocialNetworking\SocialNetworking\obj\Release\netcoreapp3.1\SocialNetworking.csprojAssemblyReference.cache
