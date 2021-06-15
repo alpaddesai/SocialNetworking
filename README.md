@@ -6,4 +6,4 @@ For details please click on the executable in https://github.com/alpaddesai/Heal
 
 All images are custom by Alpa D Desai
 
-![imaged](SocialNetworking.png)
+![image](SocialNetworking.png)
