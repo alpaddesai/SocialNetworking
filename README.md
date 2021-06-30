@@ -7,3 +7,6 @@ For details please click on the executable in https://github.com/alpaddesai/Soci
 All images are custom by Alpa D Desai
 
 ![image](SocialNetworking.png)
+
+## Ethics and Integrity
+![image](EthicsandExcellence.png)
