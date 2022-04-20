@@ -12,3 +12,5 @@ https://github.com/alpaddesai/RealEstatePortfolioIdea_Travel
 
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
+
+Additional details: https://github.com/alpaddesai/RealEstatePortfolioIdea_Travel
