@@ -11,4 +11,6 @@ All images are custom by Alpa D Desai
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
+![image](USCopyrightCertificate.png)
+
 Additional details: https://github.com/alpaddesai/RealEstatePortfolioIdea_Travel
