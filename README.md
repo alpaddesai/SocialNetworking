@@ -13,4 +13,4 @@ All images are custom by Alpa D Desai
 
 ![image](USCopyrightCertificate.png)
 
-Additional details: https://github.com/alpaddesai/RealEstatePortfolioIdea_Travel
+Additional details: https://github.com/alpaddesai/BusinessNegotiations and https://github.com/alpaddesai/RealEstatePortfolioIdea_Travel
