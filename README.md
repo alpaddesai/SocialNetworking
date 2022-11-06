@@ -13,4 +13,4 @@ All images are custom by Alpa D Desai
 
 ![image](USCopyrightCertificate.png)
 
-Additional details: https://github.com/alpaddesai/BusinessNegotiations 
+Additional details: https://github.com/alpaddesai/TestScores, https://github.com/alpaddesai/BusinessNegotiations 
