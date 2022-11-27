@@ -8,6 +8,8 @@ All images are custom by Alpa D Desai
 
 ![image](SocialNetworking.png)
 
+![image](Parties.jpg)
+
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
