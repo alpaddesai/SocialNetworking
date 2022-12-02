@@ -15,4 +15,4 @@ All images are custom by Alpa D Desai
 
 ![image](USCopyrightCertificate.png)
 
-Additional details: https://github.com/alpaddesai/TestScores, https://github.com/alpaddesai/RankCertificatesUndergraduateDegree,  https://github.com/alpaddesai/BusinessNegotiations and https://github.com/alpaddesai/MedicalDevices.
+Additional details: https://github.com/alpaddesai/RankCertificatesUndergraduateDegree
