@@ -1,4 +1,4 @@
-# Social Networking 2022
+# Social Networking 
 
 The project provides an overview of Social Networking 
 
