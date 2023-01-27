@@ -13,4 +13,4 @@ All images are custom by Alpa D Desai
 
 ![image](USCopyrightCertificate.png)
 
-Additional details: https://github.com/alpaddesai/RankCertificatesUndergraduateDegree
+Additional details: https://github.com/alpaddesai/LifeStyle
