@@ -8,6 +8,9 @@ All images are custom by Alpa D Desai
 
 ![image](SocialParties.jpg)
 
+### chicken before the egg.... horse before the cart... cart before horse
+![image](BuildingrelationshipsCoworkers.jpg)
+
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
